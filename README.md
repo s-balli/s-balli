@@ -1,5 +1,5 @@
 ## Hi there 👋
-On my profile, you'll find projects I've worked on 🌟.
+On my profile, you'll find the projects I work on as a hobby on my profile. 🌟.
 <!--
 **s-balli/s-balli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
