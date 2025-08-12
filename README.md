@@ -5,12 +5,16 @@ Department of Software Engineering
 Bucak Faculty of Computer and Informatics  
 Mehmet Akif Ersoy University, Turkey
 
-[![Website](https://img.shields.io/badge/Website-serkan.yapay.us-green)](https://serkan.yapay.us/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-green)](https://scholar.google.com.tr/citations?user=t3p8cAUAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4825--139X-green)](https://orcid.org/0000-0002-4825-139X)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green)](https://www.researchgate.net/profile/Serkan-Balli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-green)](https://linkedin.com/in/serkanballi)
-[![GitHub](https://img.shields.io/badge/GitHub-s--balli-green)](https://github.com/s-balli)
+[![Website](https://img.shields.io/badge/Website-serkan.yapay.us-green?style=for-the-badge)](https://serkan.yapay.us/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square)](https://scholar.google.com.tr/citations?user=t3p8cAUAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4825--139X-orange?style=plastic)](https://orcid.org/0000-0002-4825-139X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-brightgreen?style=flat)](https://www.researchgate.net/profile/Serkan-Balli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/serkanballi)
+[![GitHub](https://img.shields.io/badge/GitHub-s--balli-181717?style=for-the-badge&logo=github)](https://github.com/s-balli)
+
+![GitHub followers](https://img.shields.io/github/followers/s-balli?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/s-balli?style=social)
+[![Profile Views](https://komarev.com/ghpvc/?username=s-balli&color=brightgreen&style=flat-square)](https://github.com/s-balli)
 
 ---
 
@@ -22,26 +26,26 @@ I am a Professor of Computer Science at Mehmet Akif Ersoy University, specializi
 
 ## Research Interests
 
-- **Artificial Intelligence**
-  - Machine Learning Applications
-  - Deep Learning
-  - Neural Networks
-  - Pattern Recognition
+- **Artificial Intelligence** ![AI](https://img.shields.io/badge/AI-Expert-ff6b6b?style=flat-square&logo=ai)
+  - Machine Learning Applications ![ML](https://img.shields.io/badge/ML-Advanced-4ecdc4?style=flat-square)
+  - Deep Learning ![DL](https://img.shields.io/badge/Deep_Learning-Expert-45b7d1?style=flat-square)
+  - Neural Networks ![NN](https://img.shields.io/badge/Neural_Networks-Advanced-96ceb4?style=flat-square)
+  - Pattern Recognition ![PR](https://img.shields.io/badge/Pattern_Recognition-Expert-ffeaa7?style=flat-square)
 
-- **Cybersecurity**
+- **Cybersecurity** ![Security](https://img.shields.io/badge/Cybersecurity-Expert-e17055?style=flat-square&logo=security)
   - Continuous Authentication Systems
   - Behavioral Analysis
   - Security in Information Systems
 
-- **Information Systems**
+- **Information Systems** ![IS](https://img.shields.io/badge/Info_Systems-Advanced-74b9ff?style=flat-square)
   - Human Activity Recognition
   - Stress Detection via Behavioral Analysis
   - Mobile and Smartphone Applications
 
-- **Systems Engineering & DevOps**
-  - Linux Systems Administration
-  - Open Source Technologies
-  - Software Engineering Practices
+- **Systems Engineering & DevOps** ![DevOps](https://img.shields.io/badge/DevOps-Advanced-00b894?style=flat-square&logo=devops)
+  - Linux Systems Administration ![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux&logoColor=black)
+  - Open Source Technologies ![OSS](https://img.shields.io/badge/Open_Source-Contributor-2d3436?style=flat-square)
+  - Software Engineering Practices ![SE](https://img.shields.io/badge/Software_Engineering-Expert-6c5ce7?style=flat-square)
 
 ---
 
