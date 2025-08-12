@@ -83,13 +83,13 @@ Here are some of my notable research contributions:
 
 ## Publications
 
-For a comprehensive list of my publications, please visit my profiles on [Google Scholar](https://scholar.google.com.tr/citations?user=t3p8cAUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Serkan-Balli).
+To explore my complete research portfolio, check out my [Google Scholar](https://scholar.google.com.tr/citations?user=t3p8cAUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Serkan-Balli) profiles.
 
 ---
 
 ## Contact
 
-Feel free to connect with me through the following platforms:
+Get in touch with me via these channels:
 
 - **Email:** serkanballi@mehmetakif.edu.tr
 - **Personal Website:** [serkan.yapay.us](https://serkan.yapay.us/)
