@@ -45,7 +45,7 @@ I am a Professor of Computer Science at Mehmet Akif Ersoy University, specializi
 
 ---
 
-## Notable Projects
+## Notable Contributions
 
 Here are some of my notable research contributions:
 
