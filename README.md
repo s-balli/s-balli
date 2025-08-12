@@ -5,12 +5,12 @@ Department of Software Engineering
 Bucak Faculty of Computer and Informatics  
 Mehmet Akif Ersoy University, Turkey
 
-[![Website](https://img.shields.io/badge/Website-serkan.yapay.us-blue)](https://serkan.yapay.us/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue)](https://scholar.google.com.tr/citations?user=t3p8cAUAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4825--139X-blue)](https://orcid.org/0000-0002-4825-139X)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-blue)](https://www.researchgate.net/profile/Serkan-Balli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/serkanballi)
-[![GitHub](https://img.shields.io/badge/GitHub-s--balli-blue)](https://github.com/s-balli)
+[![Website](https://img.shields.io/badge/Website-serkan.yapay.us-green)](https://serkan.yapay.us/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-green)](https://scholar.google.com.tr/citations?user=t3p8cAUAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4825--139X-green)](https://orcid.org/0000-0002-4825-139X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green)](https://www.researchgate.net/profile/Serkan-Balli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-green)](https://linkedin.com/in/serkanballi)
+[![GitHub](https://img.shields.io/badge/GitHub-s--balli-green)](https://github.com/s-balli)
 
 ---
 
