@@ -51,8 +51,6 @@ I am a Professor of Computer Science at Mehmet Akif Ersoy University, specializi
 
 ## Notable Contributions
 
-Here are some of my notable research contributions:
-
 - **COVID-19 Data Analysis and Forecasting**
   - *Description:* Comprehensive analysis and forecasting models for COVID-19 pandemic data with predictive analytics.
   - *Published:* 2021
