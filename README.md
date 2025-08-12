@@ -26,26 +26,26 @@ I am a Professor of Computer Science at Mehmet Akif Ersoy University, specializi
 
 ## Research Interests
 
-- **Artificial Intelligence** ![AI](https://img.shields.io/badge/AI-Expert-ff6b6b?style=flat-square&logo=ai)
-  - Machine Learning Applications ![ML](https://img.shields.io/badge/ML-Advanced-4ecdc4?style=flat-square)
-  - Deep Learning ![DL](https://img.shields.io/badge/Deep_Learning-Expert-45b7d1?style=flat-square)
-  - Neural Networks ![NN](https://img.shields.io/badge/Neural_Networks-Advanced-96ceb4?style=flat-square)
-  - Pattern Recognition ![PR](https://img.shields.io/badge/Pattern_Recognition-Expert-ffeaa7?style=flat-square)
+- **Artificial Intelligence** <img src="https://img.shields.io/badge/AI-Expert-ff6b6b?style=flat-square&logo=ai" align="center">
+  - Machine Learning Applications <img src="https://img.shields.io/badge/ML-Advanced-4ecdc4?style=flat-square" align="center">
+  - Deep Learning <img src="https://img.shields.io/badge/Deep_Learning-Expert-45b7d1?style=flat-square" align="center">
+  - Neural Networks <img src="https://img.shields.io/badge/Neural_Networks-Advanced-96ceb4?style=flat-square" align="center">
+  - Pattern Recognition <img src="https://img.shields.io/badge/Pattern_Recognition-Expert-ffeaa7?style=flat-square" align="center">
 
-- **Cybersecurity** ![Security](https://img.shields.io/badge/Cybersecurity-Expert-e17055?style=flat-square&logo=security)
+- **Cybersecurity** <img src="https://img.shields.io/badge/Cybersecurity-Expert-e17055?style=flat-square&logo=security" align="center">
   - Continuous Authentication Systems
   - Behavioral Analysis
   - Security in Information Systems
 
-- **Information Systems** ![IS](https://img.shields.io/badge/Info_Systems-Advanced-74b9ff?style=flat-square)
+- **Information Systems** <img src="https://img.shields.io/badge/Info_Systems-Advanced-74b9ff?style=flat-square" align="center">
   - Human Activity Recognition
   - Stress Detection via Behavioral Analysis
   - Mobile and Smartphone Applications
 
-- **Systems Engineering & DevOps** ![DevOps](https://img.shields.io/badge/DevOps-Advanced-00b894?style=flat-square&logo=devops)
-  - Linux Systems Administration ![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux&logoColor=black)
-  - Open Source Technologies ![OSS](https://img.shields.io/badge/Open_Source-Contributor-2d3436?style=flat-square)
-  - Software Engineering Practices ![SE](https://img.shields.io/badge/Software_Engineering-Expert-6c5ce7?style=flat-square)
+- **Systems Engineering & DevOps** <img src="https://img.shields.io/badge/DevOps-Advanced-00b894?style=flat-square&logo=devops" align="center">
+  - Linux Systems Administration <img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux&logoColor=black" align="center">
+  - Open Source Technologies <img src="https://img.shields.io/badge/Open_Source-Contributor-2d3436?style=flat-square" align="center">
+  - Software Engineering Practices <img src="https://img.shields.io/badge/Software_Engineering-Expert-6c5ce7?style=flat-square" align="center">
 
 ---
 
